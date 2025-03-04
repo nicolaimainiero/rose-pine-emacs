@@ -30,8 +30,8 @@
   (iris       "#907aa9")  ;; salient
   (foam       "#56949f")  ;; strong
   (rose       "#d7827e")  ;; popout
-  (subtle     "#6e6a86")  ;; subtle
-  (faded      "#cecaed")  ;; faded
+  (subtle     "#e2e0eb")  ;; subtle
+  (faded      "#9d9ab5")  ;; faded
   (cursor     "#286983")) ;; cursor
 
 
